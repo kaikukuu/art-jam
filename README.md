@@ -2,7 +2,7 @@
 
 By Kaisa Catt
 
-[View this project online](https://github.com/allecatt/art-jam.git)
+[View this project online](kaikukuu.github.io. )
 
 ## Description
 
